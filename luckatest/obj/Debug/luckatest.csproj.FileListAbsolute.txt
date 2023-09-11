@@ -1,0 +1,10 @@
+G:\luckatest\bin\Debug\luckatest.exe.config
+G:\luckatest\bin\Debug\luckatest.exe
+G:\luckatest\bin\Debug\luckatest.pdb
+G:\luckatest\obj\Debug\luckatest.csprojAssemblyReference.cache
+G:\luckatest\obj\Debug\luckatest.Form1.resources
+G:\luckatest\obj\Debug\luckatest.Properties.Resources.resources
+G:\luckatest\obj\Debug\luckatest.csproj.GenerateResource.cache
+G:\luckatest\obj\Debug\luckatest.csproj.CoreCompileInputs.cache
+G:\luckatest\obj\Debug\luckatest.exe
+G:\luckatest\obj\Debug\luckatest.pdb
