@@ -33,9 +33,10 @@ namespace luckatest
             {
                 if(x > max)
                 {
+                    druhe = max;
                     max = x;                    
                 }
-                if (max > druhe && druhe < x)
+                else if (x > druhe && x < max)
                 {
                     druhe = x;
                 }
@@ -46,6 +47,8 @@ namespace luckatest
 
         public bool Dokonale(int x)
         {
+            if(x <= 0) { return false; }
+
             int celkem = 0;
             for(int i =1;i< x; i++)
             {
@@ -55,16 +58,16 @@ namespace luckatest
                 }
             }
 
-            if (celkem == x) return true; else return false;
+            return celkem == x;
         }
 
         public void Mazat(List<int> list)
         {
-            foreach(int k in list)
+            for(int i = list.Count - 1; i>= 0; i--)
             {
-                if(Dokonale(k) == true)
+                if (Dokonale(list[i]) == true)
                 {
-                    list.Remove(k);
+                    list.RemoveAt(i);
                 }
             }
         }
@@ -132,6 +135,27 @@ namespace luckatest
         private void button6_Click(object sender, EventArgs e)
         {
             label3.Text = CifernySoucet(List1).ToString();
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            listBox4.Items.Clear();
+            List<char> znacky = new List<char>();
+            foreach(int x in List1)
+            {
+                if(x >= 65 && x <= 90)
+                {
+                    znacky.Add(Convert.ToChar(x));
+                }
+                else
+                {
+                    znacky.Add('*');
+                }
+            }
+            foreach(char c in znacky)
+            {
+                listBox4.Items.Add(c);
+            }
         }
     }
 }

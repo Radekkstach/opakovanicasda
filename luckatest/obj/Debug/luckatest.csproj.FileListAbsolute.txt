@@ -8,3 +8,15 @@ G:\luckatest\obj\Debug\luckatest.csproj.GenerateResource.cache
 G:\luckatest\obj\Debug\luckatest.csproj.CoreCompileInputs.cache
 G:\luckatest\obj\Debug\luckatest.exe
 G:\luckatest\obj\Debug\luckatest.pdb
+C:\Users\Uživatel\Desktop\programko\opakovanicisla\luckatest\bin\Debug\luckatest.exe.config
+C:\Users\Uživatel\Desktop\programko\opakovanicisla\luckatest\bin\Debug\luckatest.exe
+C:\Users\Uživatel\Desktop\programko\opakovanicisla\luckatest\bin\Debug\luckatest.pdb
+C:\Users\Uživatel\Desktop\programko\opakovanicisla\luckatest\obj\Debug\luckatest.csproj.AssemblyReference.cache
+C:\Users\Uživatel\Desktop\programko\opakovanicisla\luckatest\obj\Debug\luckatest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Uživatel\Desktop\programko\opakovanicisla\luckatest\obj\Debug\luckatest.Form1.resources
+C:\Users\Uživatel\Desktop\programko\opakovanicisla\luckatest\obj\Debug\luckatest.Properties.Resources.resources
+C:\Users\Uživatel\Desktop\programko\opakovanicisla\luckatest\obj\Debug\luckatest.csproj.GenerateResource.cache
+C:\Users\Uživatel\Desktop\programko\opakovanicisla\luckatest\obj\Debug\luckatest.csproj.CoreCompileInputs.cache
+C:\Users\Uživatel\Desktop\programko\opakovanicisla\luckatest\obj\Debug\luckatest.exe
+C:\Users\Uživatel\Desktop\programko\opakovanicisla\luckatest\obj\Debug\luckatest.pdb
+C:\Users\Uživatel\Desktop\programko\opakovanicisla\luckatest\obj\Debug\luckatest.Form2.resources
